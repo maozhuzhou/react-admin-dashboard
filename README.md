@@ -1,5 +1,6 @@
 # This is a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-<img src="https://ibb.co/whKTnSh" alt="Ecommerce" >
+
+<img src="https://ibb.co/whKTnSh"  width="200" height="100" alt="Ecommerce" >
 
 ![Ecommerce](https://ibb.co/whKTnSh)
 
