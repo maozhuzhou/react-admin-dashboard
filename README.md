@@ -1,4 +1,4 @@
-# This is a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+This is a React Admin Dashboard App with Theming, Tables, Charts, Calendar, Kanban, etc.
 ## Ecommerce page
 ![ecommerce](https://github.com/user-attachments/assets/94cdc017-291b-4c3d-8deb-a23932d5eab7)
 ## Ecommerce page  
