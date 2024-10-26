@@ -6,23 +6,35 @@ This is a React Admin Dashboard App with Theming, Tables, Charts, Calendar, Kanb
 ## Ecommerce page  
 ![ecommerce3](https://github.com/user-attachments/assets/cac5fe0e-7e86-41ea-9cba-ea065ea4c723)
 ## Orders page  
-![orders](https://github.com/user-attachments/assets/520f7f9b-955a-4cae-b9ba-cc963184ef3c)
+![orders](https://github.com/user-attachments/assets/fe021667-8a1b-4118-9a65-e37ea2bbbf31)
+
+## Customers page
+![customers](https://github.com/user-attachments/assets/e7f0b1dc-bc81-4fa1-af3c-dc48f06cf82b)
+
 ## Employee page  
-![employee](https://github.com/user-attachments/assets/9c208021-c6b9-48af-b74e-492d05b8ca35)
-## Calendar page  
-![calendar](https://github.com/user-attachments/assets/2866af61-804c-4bef-85fb-66f5c379805d)
+ ![employee](https://github.com/user-attachments/assets/12cfa540-c199-4918-a12e-55b2b4002e2f)
+
+## Calendar page 
+ ![calendar](https://github.com/user-attachments/assets/c2beb013-f8f5-43ca-bc08-3eeb44af44c5)
+
 ## Kanban page  
-![kanban](https://github.com/user-attachments/assets/7ff273a5-4e0e-48ef-9517-d956da516519)
+ ![kanban](https://github.com/user-attachments/assets/17baa68b-025d-4a0f-b722-a45e93809e3b)
+
 ## Charts page
-![pyramid](https://github.com/user-attachments/assets/554b4895-a615-47a3-ae39-07bb63ba25b1)
+ ![pyramid](https://github.com/user-attachments/assets/4c1c00ce-8d35-4ed5-bf20-3a249c28db54)
+
 ## Charts page
-![area](https://github.com/user-attachments/assets/3c1017b7-05f5-4871-a831-25a0ae0b334d)
+ ![area](https://github.com/user-attachments/assets/eabdf24f-a03f-47fa-9847-e4bf3affe4a7)
+
 ## Charts page
-![pie](https://github.com/user-attachments/assets/bed0758c-6134-4b27-ac9f-869dd28196ea)
+ ![pie](https://github.com/user-attachments/assets/e8584f9b-65dc-4f79-b4a8-b50fc62ce066)
+
 ## Editor page
-![editor](https://github.com/user-attachments/assets/9aaec2c4-2cc3-413e-8b1d-f2f0ded06ee4)
+ ![editor](https://github.com/user-attachments/assets/2dd11ec0-7379-4dff-904b-28c9c42e7e5f)
+
 ## Color choice page
-![color](https://github.com/user-attachments/assets/c2e935fb-6147-4142-89ad-3bef8f7aabdc)
+ ![color](https://github.com/user-attachments/assets/e1f151b1-4b36-43e0-833f-1e6fbaf9b01f)
+
 ## Theme page
 ![theme](https://github.com/user-attachments/assets/ea880948-3136-4dc4-a122-6a22b5043262)
 ## Theme page
